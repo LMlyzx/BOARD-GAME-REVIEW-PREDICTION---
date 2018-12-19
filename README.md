@@ -1,0 +1,2 @@
+# BOARD-GAME-REVIEW-PREDICTION---
+This work presents a system that facilitates prediction of the winner in a sport game. The system consists of methods for: collection of data from the Internet for games in various sports, preprocessing of the acquired data, feature selection  and model  building. Many  of the  algorithms for prediction  and classification  implemented for  this  kind of  problems.
